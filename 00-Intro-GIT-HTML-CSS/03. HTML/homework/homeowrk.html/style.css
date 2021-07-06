@@ -1,0 +1,49 @@
+
+      h1{
+       color: black; 
+       text-align:center
+      }
+      h3{
+       color: black;   
+       text-align:center
+      }
+      h4{
+          color: black;
+          text-align:center
+      }
+      span{
+          color: black;
+          text-align:center
+      }
+      center,img{
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 900px;
+          height: 700px;
+          background-color: red;
+          border: black solid 2px;
+         
+          
+        
+
+    }
+      #spanId{
+          font-size: 18px;
+          margin: 50px;
+          text-align:center
+      }
+      
+         
+
+
+
+      body{
+        margin: 0;
+        padding: 0;
+        background: url(https://as01.epimg.net/epik/imagenes/2017/10/31/portada/1509469785_213048_1509471547_noticia_normal.jpg);   
+        background-size: cover;
+        background-position: center;
+        font-family: sans-serif;
+        }  
+     
